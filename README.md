@@ -1,2 +1,2 @@
-holiday-name-generator
+name-generator
 ======================
