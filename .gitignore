@@ -20,6 +20,9 @@ build/
 /doc/
 /rdoc/
 
+## Mac Specific
+*.DS_Store
+
 ## Environment normalisation:
 /.bundle/
 /lib/bundler/man/
